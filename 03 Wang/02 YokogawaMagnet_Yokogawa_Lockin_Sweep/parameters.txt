@@ -1,0 +1,60 @@
+00 Run_Number: 01
+
+01 Field TimeStep(s): 1
+02 Field Sweep Start (mA): -36.36
+03 Field Sweep Stop (mA): 36.36
+04 Field Sweep Step (mA): 2.27
+
+05 Yokogawa Ramp TimeStep(s): 0.2
+06 Yokogawa Collect TimeStep(s): 1.8
+
+07 Device 1 Measure (y/n): y
+08 Lock-in Sense: 200e-6
+09 Pre-Amp Gain: 100
+10 Lock-in Resistor(Ohms): 1e6
+11 Yokogawa Resistor(Ohms): 1e6
+12 Output Voltage(mV): 100
+13 Initial Ramp Start(mV): 0
+14 Initial Ramp End(mV): -3000
+15 Initial Ramp Step(mV): -100
+16 Collecting Start(mV): -3000
+17 Collecting Stop(mV): 3000
+18 Collecting Step(mV): 100
+19 Final Ramp Start(mV): 3000
+20 Final Ramp Stop(mV): 0
+21 Final Ramp Step(mV): -100
+22 File Name: 2_2
+
+23 Device 2 Measure (y/n): n
+24 Lock-in Sense: 200e-6
+25 Pre-Amp Gain: 100
+26 Lock-in Resistor(Ohms): 1e6
+27 Yokogawa Resistor(Ohms): 1e6
+28 Output Voltage(mV): 100
+29 Initial Ramp Start(mV): 0
+30 Initial Ramp End(mV): -3000
+31 Initial Ramp Step(mV): -100
+32 Collecting Start(mV): -3000
+33 Collecting Stop(mV): 3000
+34 Collecting Step(mV): 100
+35 Final Ramp Start(mV): 3000
+36 Final Ramp Stop(mV): 0
+37 Final Ramp Step(mV): -100
+38 File Name: 4_2
+
+39 Device 3 Measure (y/n): n
+40 Lock-in Sense: 200e-6
+41 Pre-Amp Gain: 100
+42 Lock-in Resistor(Ohms): 1e6
+43 Yokogawa Resistor(Ohms): 1e6
+44 Output Voltage(mV): 100
+45 Initial Ramp Start(mV): 0
+46 Initial Ramp End(mV): -3000
+47 Initial Ramp Step(mV): -100
+48 Collecting Start(mV): -3000
+49 Collecting Stop(mV): 3000
+50 Collecting Step(mV): 100
+51 Final Ramp Start(mV): 3000
+52 Final Ramp Stop(mV): 0
+53 Final Ramp Step(mV): -100
+54 File Name: 4_1

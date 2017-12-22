@@ -1,0 +1,18 @@
+00 Run_Number: 01
+
+01 Start Gate Voltage (V): 1
+02 Step Gate Voltage (V): .1
+03 End Gate Voltage (V): 2
+04 Double Linear (y/n): y
+05 Turn off Keithley (y/n): n
+06 CurrBias Lock-in Sens: 20e-3
+07 Reading wait time(s): .5
+
+08 Current Bias Resistor: 1.009e9
+09 Lock-in Output Voltage: 0
+10 Additional Lock-in Volt Gain: 1
+
+11 User: Vannucci
+12 File Name: S-SiA0036-V_B1_leads
+13 TimeStamp (y/n): y
+14 Comments: None

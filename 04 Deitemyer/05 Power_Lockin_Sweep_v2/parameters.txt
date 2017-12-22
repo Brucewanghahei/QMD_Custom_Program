@@ -1,0 +1,36 @@
+00 Run_Number: 01
+
+01 RF Freq Start(MHz): 4000
+02 RF Freq Step(MHz): 500
+03 RF Freq End(MHz): 8500
+04 RF Power Start(dBm):  0
+05 RF Power Step(dBm): -5
+06 RF Power End(dBm): -10
+
+07 Yokogawa Ramp TimeStep(s): 0.2
+08 Yokogawa Collect TimeStep(s): 0
+09 Yokogawa-Agilent wait time(s): 0.5
+
+10 Device 1 Measure (y/n): y
+11 Aperture (.02,.2,1,10,100): 1
+12 Pre-Amp 1 Gain: 100
+13 Pre-Amp 2 Gain: 1
+14 Collections per Datapoint: 1
+15 Yokogawa Resistor(Ohms): 1e6
+16 Yoko-Ag wait time(s): .25
+17 Initial Ramp Start(mV): 0
+18 Initial Ramp End(mV): -4000
+19 Initial Ramp Step(mV): -100
+20 Collecting Start(mV): -4000
+21 Collecting Stop(mV): 4000
+22 Collecting Step(mV): 40
+23 Final Ramp Start(mV): 4000
+24 Final Ramp Stop(mV): 0
+25 Final Ramp Step(mV): -100
+26 Lock-In Sensitivity(V): 200e-9
+27 Lock-In Resistor(MOhms): 1
+28 Output Voltage(V): 5e-3
+29 File Name: RF_Sweep_weekend6
+
+30 Current Sample Temperature(K): 0.168
+

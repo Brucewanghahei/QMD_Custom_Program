@@ -1,0 +1,55 @@
+00 Run_Number: 01
+
+01 Yokogawa Ramp TimeStep(s): 0.2
+02 Yokogawa Collect TimeStep(s): 0
+
+03 Device 1 Measure (y/n): y
+04 Aperture (.02,.2,1,10,100): 100
+05 Pre-Amp Gain: 200
+06 Collections per Datapoint: 10
+07 Yokogawa Resistor(Ohms): 1e6
+08 Yoko-Ag wait time(s): .25
+09 Initial Ramp Start(mV): 0
+10 Initial Ramp End(mV): -50
+11 Initial Ramp Step(mV): -10
+12 Collecting Start(mV): -50
+13 Collecting Stop(mV): 50
+14 Collecting Step(mV): 10
+15 Final Ramp Start(mV): 50
+16 Final Ramp Stop(mV): 0
+17 Final Ramp Step(mV): -10
+18 File Name: 10ohms2
+
+19 Device 2 Measure (y/n): n
+20 Aperture (.02,.2,1,10,100): 1
+21 Pre-Amp Gain: 100
+22 Collections per Datapoint: 5
+23 Yokogawa Resistor(Ohms): 1e5
+24 Yoko-Ag wait time(s): .5
+25 Initial Ramp Start(mV): 0
+26 Initial Ramp End(mV): -5000
+27 Initial Ramp Step(mV): -100
+28 Collecting Start(mV): -5000
+29 Collecting Stop(mV): 5000
+30 Collecting Step(mV): 100
+31 Final Ramp Start(mV): 5000
+32 Final Ramp Stop(mV): 0
+33 Final Ramp Step(mV): -100
+34 File Name: Device5
+
+35 Device 3 Measure (y/n): n
+36 Aperture (.02,.2,1,10,100): 1
+37 Pre-Amp Gain: 100
+38 Collections per Datapoint: 5
+39 Yokogawa Resistor(Ohms): 1e5
+40 Yoko-Ag wait time(s): .5
+41 Initial Ramp Start(mV): 0
+42 Initial Ramp End(mV): -5000
+43 Initial Ramp Step(mV): -100
+44 Collecting Start(mV): -5000
+45 Collecting Stop(mV): 5000
+46 Collecting Step(mV): 100
+47 Final Ramp Start(mV): 5000
+48 Final Ramp Stop(mV): 0
+49 Final Ramp Step(mV): -100
+50 File Name: Device9
