@@ -1,0 +1,37 @@
+User: Vannucci
+
+00 Run_Number: 01
+
+01 Start Gate Voltage: 0
+02 Step Gate Voltage: 0.025
+03 End Gate Voltage: 12.5
+04 Double Linear (y/n): y
+05 Turn off Gate Keithley (y/n): n
+
+06 Keithley Device Source Voltage: 500e-6
+07 Turn off Device Keithley (y/n): y
+
+08 User: Vannucci
+09 Save Name: S-Si0036-V_DeviceA2
+10 TimeStamp (y/n): y
+11 Comments: 
+
+
+Sweeping Gate on J11, J21, J24
+
+Source Voltage = 500uV
+Current Sense High = J23
+Current Sense Low = J16
+Voltage Force High = J17
+Voltage Force Low = J8
+
+Collected Data
+Time, Gate Voltage, Gate Current, Device Voltage, Device Current, Device Conductane, Device Resistance
+s, V, A, V, A, S, Ohms
+0.539999961853,0.009969586,-4.289511e-08,9.91e+37,5.09422e-08,5.14048435923e-46,1.94534197581e+45
+0.9390001297,0.03371205,-1.158246e-08,9.91e+37,-3.060662e-07,-3.08845812311e-45,-3.23786161295e+44
+2.26800012589,0.04999461,-2.122473e-08,9.91e+37,1.982604e-07,2.00060948537e-45,4.99847675078e+44
+3.36500000954,0.07511485,-4.356266e-08,9.91e+37,8.100209e-08,8.17377295661e-46,1.22342522273e+45
+4.78400015831,0.1083072,-2.0971e-08,9.91e+37,-2.728033e-07,-2.75280827447e-45,-3.63265400382e+44
+5.992000103,0.1016902,1.731879e-08,9.91e+37,2.771415e-07,2.79658425832e-45,3.57579070619e+44
+7.36899995804,0.1274186,1.135316e-08,0.01587584,2.947387e-07,1.85652349734e-05,53864.1176065

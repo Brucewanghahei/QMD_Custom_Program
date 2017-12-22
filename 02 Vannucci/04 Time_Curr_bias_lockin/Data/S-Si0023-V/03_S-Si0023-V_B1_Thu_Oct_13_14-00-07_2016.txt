@@ -1,0 +1,23 @@
+User: Vannucci
+
+00 Run_Number: 03
+
+01 Time Step: 2
+02 Averaging: 1
+03 Plot Power Spectrum Every: 1000
+
+04 CurrBias Lock-in Sens: 100e-6
+05 Current Bias Resistor: 1.009e9
+06 Lock-in Output Voltage: 1
+07 Additional Lock-in Volt Gain: 1
+
+08 User: Vannucci
+09 Save Name: S-Si0023-V_B1
+10 TimeStamp (y/n): y
+11 Comments: Measuring Voltage between 24 and 35 while current biasing 36 and 23GND. Lock-in time constant = 1s
+
+Immediately After stepping Gate Voltage from 30V-to-15V.
+
+Collected Data
+Time, Gate Voltage, Gate Current, Device Voltage, Device Current, Device Conductane, Device Resistance
+s, V, A, V, A, S, Ohms

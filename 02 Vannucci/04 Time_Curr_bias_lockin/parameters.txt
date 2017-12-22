@@ -1,0 +1,15 @@
+00 Run_Number: 01
+
+01 Time Step: 1
+02 Averaging: 1
+03 Plot Power Spectrum Every: 10000
+
+04 CurrBias Lock-in Sens: 20e-6
+05 Current Bias Resistor: 1.009e9
+06 Lock-in Output Voltage: 1
+07 Additional Lock-in Volt Gain: 1
+
+08 User: Vannucci
+09 Save Name: S-Si0031-V_B1
+10 TimeStamp (y/n): y
+11 Comments: Measuring Voltage between J4 and J1 while current biasing J5 and J2GND. Lock-in time constant = 300ms

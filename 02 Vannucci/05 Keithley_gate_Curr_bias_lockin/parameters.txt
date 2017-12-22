@@ -1,0 +1,19 @@
+00 Run_Number: 01
+
+01 Start Gate Voltage: 26.7
+02 Step Gate Voltage: 0.1
+03 End Gate Voltage: 0
+04 Double Linear (y/n): n
+05 Turn off Keithley (y/n): n
+
+06 CurrBias Lock-in Sens: 20e-3
+07 Current Bias Resistor: 1.009e9
+08 Lock-in Output Voltage: 10
+09 Additional Lock-in Volt Gain: 1
+
+10 User: Sendgikoski
+11 Save Name: S-SiA0048-V_A3
+12 TimeStamp (y/n): y
+13 Comments: 
+
+Using Janis System at 2.9K

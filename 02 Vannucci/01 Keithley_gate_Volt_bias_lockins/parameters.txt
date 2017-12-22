@@ -1,0 +1,30 @@
+00 Run_Number: 02
+
+01 Start Gate Voltage: 3
+02 Step Gate Voltage: 0.1
+03 End Gate Voltage: 0
+04 Double Linear (y/n): n
+05 Turn off Keithley (y/n): n
+
+06 Lock-in Curr Sens: 20e-6
+07 Lock-in Volt Sens: 500e-6
+08 Curr Pre-Amplifier Sens: 1e-5
+09 Additional Lock-in Volt Gain: 1
+10 Additional Lock-in Curr Gain: 1
+
+11 User: Vannucci
+12 Save Name: S-Si0041-V_C2_multigates_leads
+13 TimeStamp (y/n): y
+14 Comments: 
+
+0V on Lead Gates J11, J21
+
+Frequency: 93.8 Hz
+
+Sweeping Gate on J6
+
+Source Voltage = 500uV
+Current In = J2
+Current Out = J24
+Voltage + = J5
+Voltage - = J12

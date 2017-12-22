@@ -1,0 +1,20 @@
+00 Run_Number: 01
+
+01 Start Field: 1
+02 Field Sweep: 0.0008
+03 Record Step Field: 0.02
+04 End Field: -1
+05 Double Linear (y/n): n
+
+06 Lock-in Curr Sens: 1e-3
+07 Lock-in Volt Sens: 200e-6
+08 Curr Pre-Amplifier Sens: 1e-5
+09 Additional Lock-in Volt Gain: 100
+10 Additional Lock-in Curr Gain: 1
+
+11 User: Vannucci
+12 Save Name: S-SiA0046-V_A1_+1_-1T
+13 TimeStamp (y/n): y
+14 Comments: 
+
+Device A1 measuring Hall Voltage between terminals 34 and 28.

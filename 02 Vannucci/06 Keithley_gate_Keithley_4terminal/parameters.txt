@@ -1,0 +1,17 @@
+00 Run_Number: 00
+
+01 Start Gate Voltage: 0
+02 Step Gate Voltage: 0.025
+03 End Gate Voltage: 40
+04 Double Linear (y/n): n
+05 Turn off Gate Keithley (y/n): n
+
+06 Keithley Device Source Voltage: 10e-3
+07 Turn off Device Keithley (y/n): y
+
+08 User: Vannucci
+09 Save Name: S-Si0036-V_DeviceA2_Multi
+10 TimeStamp (y/n): y
+11 Comments: 
+
+Step Lead Gate

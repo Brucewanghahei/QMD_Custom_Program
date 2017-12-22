@@ -1,0 +1,29 @@
+User: Vannucci
+
+00 Run_Number: 01
+
+01 Start Field: 0.415
+02 Field Sweep: 0.001
+03 Record Step Field: 0.005
+04 End Field: 1
+05 Double Linear (y/n): n
+
+06 CurrBias Lock-in Sens: 5e-6
+07 Current Bias Resistor: 1.015e6
+08 Lock-in Output Voltage: 0.1
+09 Additional Lock-in Volt Gain: 1
+10 Averaging: 5
+
+11 User: Vannucci
+12 Save Name: S-Si0023-V_B1_30V_0_+1
+13 TimeStamp (y/n): y
+14 Comments: 
+
+Gate Voltage = 30V for a Magnetic Field Sweep.
+MEASURING --X-- ON LOCK-IN
+Hall Measurement between 24 and 34 using current biasing of 36 and 23GND
+temp = 1k
+
+Collected Data
+Time, Field, Gate Voltage, Gate Current, Device Voltage, Device Current, Device Conductane, Device Resistance
+s, T, V, A, V, A, S, Ohms

@@ -1,0 +1,34 @@
+User: Vannucci
+
+00 Run_Number: 01
+
+01 Start Gate Voltage: 50
+02 Step Gate Voltage: 0.25
+03 End Gate Voltage: 0
+04 Double Linear (y/n): n
+05 Turn off Keithley (y/n): n
+
+06 CurrBias Lock-in Sens: 10e-3
+07 Current Bias Resistor: 9.958e6
+08 Lock-in Output Voltage: 100e-3
+09 Additional Lock-in Volt Gain: 1
+
+10 User: Vannucci
+11 Save Name: S-SiA0036-V_A2
+12 TimeStamp (y/n): y
+13 Comments: 
+
+Using Janis System
+
+50V on Lead Gates J11, J21 
+
+Sweeping Gate on J24
+
+Current In = J17
+Current Out = J8-GND
+Voltage + = J23
+Voltage - = J16
+
+Collected Data
+Time, Gate Voltage, Gate Current, Device Voltage, Device Current, Device Conductane, Device Resistance
+s, V, A, V, A, S, Ohms
